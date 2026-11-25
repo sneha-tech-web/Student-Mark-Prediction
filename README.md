@@ -1,4 +1,4 @@
-# Student Marks Prediction Using Machine Learning
+# Student Marks Prediction 
 
 ## 1. Project description
 This beginner-friendly project predicts a student's marks using study hours,
